@@ -57,6 +57,8 @@ public class Eratosthenes {
 							System.out.println(i);
 						}
 					}
+				}else{
+					System.out.println("ungültiger Eingabe!!");
 				}
 			}
 		}
