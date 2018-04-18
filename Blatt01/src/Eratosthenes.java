@@ -34,6 +34,8 @@ public class Eratosthenes {
 							isPrime[j] = false;
 						}
 					}
+				}else{
+				 	System.out.println("Eingabe ungültig!");				
 				}
 			}
 			
