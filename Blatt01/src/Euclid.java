@@ -1,6 +1,6 @@
 
 public class Euclid {
-//hh	
+
 	public static void main(String[] args){
 		
 		//Fehlermeldung wenn nicht zwei Parameter übergeben wurden
